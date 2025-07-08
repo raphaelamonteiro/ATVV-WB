@@ -1,4 +1,4 @@
-# 🧾 Atividade prática ATViv – Sistema Web Distribuído (SPA)
+# 🧾 Atividade prática ATVIV – Sistema Web Distribuído (SPA)
 
 **Professor:** [Gerson da Penha Neto](https://github.com/gerson-pn)
 
@@ -58,7 +58,7 @@ O sistema deve permitir a gestão de clientes, produtos e serviços, além de po
 
 Antes de rodar o sistema, certifique-se de ter instalado:
 
-* [Node.js](https://nodejs.org/) (versão 16 ou superior)
+* [Node.js](https://nodejs.org/) (versão 22 ou superior)
 * [MySQL](https://www.mysql.com/)
 * npm (vem com o Node.js)
 
