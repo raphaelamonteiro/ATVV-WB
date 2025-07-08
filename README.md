@@ -1,4 +1,4 @@
-# 🧾 Atividade prática ATVIV – Sistema Web Distribuído (SPA)
+# 🧾 Atividade prática ATVV – Sistema Web Distribuído (SPA)
 
 **Professor:** [Gerson da Penha Neto](https://github.com/gerson-pn)
 
